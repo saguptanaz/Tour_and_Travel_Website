@@ -85,5 +85,8 @@ This project was developed collaboratively:
 Banti Shaw
 
 LinkedIn: https://www.linkedin.com/in/banti-shaw-3412073ab
+ ---
 
-Backend update by Banti Shaw
+ ### 🔄 Recent Updates
+- Backend updates by **Banti Shaw**
+- Frontend updates by **Sagupta Naz**
